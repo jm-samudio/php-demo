@@ -2,7 +2,7 @@
 <html>
     <?php include 'index.php'; ?>
 <head>
-    <title>Lab 3 - ATM Machine Simulation</title>
+    <title> ATM Machine Simulation</title>
 </head>
 <style>
 body {

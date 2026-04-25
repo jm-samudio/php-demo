@@ -2,7 +2,7 @@
 <html>
     <?php include 'index.php'; ?>
 <head>
-    <title>Lab 2 - Temperature Converter</title>
+    <title>Temperature Converter</title>
 </head>
 <style>
  body {

@@ -3,7 +3,7 @@
 <html>
     
 <head>
-    <title>Lab 1 - My Favorite Fruits</title>
+    <title>My Favorite Fruits</title>
 </head>
 <style>
     body {
