@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Labs</title>
+    <title>My Activity</title>
     <style>
         body {
             font-family: Arial, sans-serif;
